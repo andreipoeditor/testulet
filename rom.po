@@ -1,1 +1,31 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: first\n"
+"Language: rom\n"
+
+#: 
+msgctxt "fara"
+msgid "un termen"
+msgstr "hun termen"
+
+#: 
+msgid "masina"
+msgstr "gipan"
+
+#: 
+msgid "super"
+msgstr ""
+
+#: 
+msgid "test"
+msgstr ""
+
+#: 
+msgctxt "\"fara\""
+msgid "un termen"
+msgstr ""
 
